@@ -10,3 +10,16 @@ A System Monitor that gives information such as:
 -download speed
 
 This is a C# console project.
+
+# TODO
+-total memory
+
+-upload speed
+
+-disk space
+
+-disk usage
+
+-process monitor
+
+-GUI
