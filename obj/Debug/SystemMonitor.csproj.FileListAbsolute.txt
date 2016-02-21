@@ -1,0 +1,12 @@
+C:\Users\coffe_000\Documents\System Monitor\bin\Debug\Jarvis.exe.config
+C:\Users\coffe_000\Documents\System Monitor\bin\Debug\Jarvis.exe
+C:\Users\coffe_000\Documents\System Monitor\bin\Debug\Jarvis.pdb
+C:\Users\coffe_000\Documents\System Monitor\obj\Debug\SystemMonitor.csprojResolveAssemblyReference.cache
+C:\Users\coffe_000\Documents\System Monitor\obj\Debug\Jarvis.exe
+C:\Users\coffe_000\Documents\System Monitor\obj\Debug\Jarvis.pdb
+C:\Users\McPoison1\Documents\Programming\System\System Monitor\bin\Debug\SystemMonitor.exe.config
+C:\Users\McPoison1\Documents\Programming\System\System Monitor\bin\Debug\SystemMonitor.exe
+C:\Users\McPoison1\Documents\Programming\System\System Monitor\bin\Debug\SystemMonitor.pdb
+C:\Users\McPoison1\Documents\Programming\System\System Monitor\obj\Debug\SystemMonitor.csprojResolveAssemblyReference.cache
+C:\Users\McPoison1\Documents\Programming\System\System Monitor\obj\Debug\SystemMonitor.exe
+C:\Users\McPoison1\Documents\Programming\System\System Monitor\obj\Debug\SystemMonitor.pdb
